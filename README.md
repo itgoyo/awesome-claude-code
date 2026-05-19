@@ -289,6 +289,7 @@ Tools for monitoring Claude Code token usage, costs, and session analytics.
 | Repository | Stars | Description |
 |---|---|---|
 | [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | 12.8k ⭐ | CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files |
+| [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) | 32 ⭐ | Local TUI for inspecting Claude Code, Codex CLI, and other coding-agent session history, costs, latency, and slow-run diagnostics |
 | [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | 7.5k ⭐ | Real-time Claude Code usage monitor with predictions and warnings |
 | [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 7.2k ⭐ | Beautiful, highly customizable statusline for Claude Code CLI with powerline support and themes |
 | [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) | 314 ⭐ | Comprehensive status line plugin with context usage, API rate limits, and cost tracking |
