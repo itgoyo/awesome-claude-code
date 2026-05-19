@@ -279,6 +279,7 @@ CLAUDE.md 模板、配置指南和 Claude Code 项目最佳实践。
 | 仓库 | 星标 | 简介 |
 |---|---|---|
 | [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | 12.8k ⭐ | 从本地 JSONL 文件分析 Claude Code / Codex CLI 用量的 CLI 工具 |
+| [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) | 32 ⭐ | 本地 TUI，用于查看 Claude Code、Codex CLI 等编程 Agent 的会话历史、成本、延迟和慢任务诊断 |
 | [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | 7.5k ⭐ | Claude Code 实时用量监控，含预测和警告 |
 | [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 7.2k ⭐ | 精美、高度可定制的 Claude Code CLI 状态栏，支持 Powerline 主题 |
 | [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) | 314 ⭐ | 全面的状态栏插件 —— 上下文用量、API 速率限制和成本追踪 |
