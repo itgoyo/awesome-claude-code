@@ -189,6 +189,7 @@ Model Context Protocol (MCP) servers and integrations that extend Claude Code's 
 | [Sunwood-ai-labs/draw-io-skill](https://github.com/Sunwood-ai-labs/draw-io-skill) | 31 ⭐ | Native draw.io skill with export helpers, SVG linting for Codex and Claude Code |
 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 10.3k ⭐ | Unofficial Python API and agentic skill for Google NotebookLM |
 | [mendixlabs/mxcli](https://github.com/mendixlabs/mxcli) | 61 ⭐ | Mendix CLI for working with Mendix projects — enables use with 3rd party AI agents |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | – | Remote MCP for Solana on-chain trust scoring. Verify AI agent wallet reputation before x402 micropayments: `https://intel.twzrd.xyz/mcp` |
 
 ---
 
