@@ -101,6 +101,7 @@
 | [ceedaragents/cyrus](https://github.com/ceedaragents/cyrus) | 513 ⭐ | 支持 Linear、Slack、GitHub、GitLab 的 Claude Code 后台 Agent |
 | [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) | 444 ⭐ | 用 Claude Code 构建大型项目 —— 将工作拆解为任务并循环执行直到完成 |
 | [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge) | 2.2k ⭐ | Claude、Codex & Gemini 实时多 AI 协作 —— 持久上下文，最少 Token 开销 |
+| [ShakespeareLabs/open-agent-relay](https://github.com/ShakespeareLabs/open-agent-relay) | — | 将受限的本地 Claude Code、Codex 或自动化作为带密钥的可信局域网能力，供 Agent 间委派调用 |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | 31.8k ⭐ | 基于 Claude Code 的 AI 求职系统 —— 14 种技能模式、Go 看板、PDF 生成 |
 
 ---
