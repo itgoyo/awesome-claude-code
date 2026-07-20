@@ -114,6 +114,7 @@
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 32.1k ⭐ | 以 Claude Code 为编程基础设施 —— 自定义模型交互方式，同时享受 Anthropic 的持续更新 |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 43.5k ⭐ | 跨平台桌面一体化助手 —— 支持 Claude Code、Codex、OpenCode、openclaw & Gemini CLI |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 25.4k ⭐ | 将 Gemini CLI、Codex、Claude Code、Qwen Code 封装为 OpenAI/Gemini/Claude 兼容 API |
+| [madhavajay/alex](https://github.com/madhavajay/alex) | 28 ⭐ | 带可选 UI 的本地 Rust 代理，可将 Claude Code 和其他编码 Agent 路由到多个提供商，支持本地链路追踪、可脚本化中间件、多订阅聚合、故障转移，以及通过即时通讯完成重新认证 |
 | [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | 2.4k ⭐ | Claude Code 转 OpenAI API 代理 |
 | [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) | 3.6k ⭐ | 将 GitHub Copilot 转为 OpenAI/Anthropic 兼容 API —— 可配合 Claude Code 使用 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 11k ⭐ | 自建 Claude Code 镜像/中转服务 —— 统一接入 Claude、OpenAI、Gemini、Droid，支持拼车共享 |

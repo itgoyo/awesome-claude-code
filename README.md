@@ -115,6 +115,7 @@ Tools for routing Claude Code requests through different models or creating comp
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 32.1k ⭐ | Use Claude Code as coding infrastructure — decide how to interact with the model while enjoying Anthropic updates |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 43.5k ⭐ | Cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 25.4k ⭐ | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude-compatible API |
+| [madhavajay/alex](https://github.com/madhavajay/alex) | 28 ⭐ | Local Rust proxy with an optional UI that routes Claude Code and other coding agents across providers, with local trace capture, scriptable middleware, subscription bonding, failover, and messenger-assisted re-authentication |
 | [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | 2.4k ⭐ | Claude Code to OpenAI API Proxy |
 | [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) | 3.6k ⭐ | Turn GitHub Copilot into OpenAI/Anthropic API compatible server — usable with Claude Code |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 11k ⭐ | Self-hosted Claude Code mirror / relay service — unified access for Claude, OpenAI, Gemini, Droid |
