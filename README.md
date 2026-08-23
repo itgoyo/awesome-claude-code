@@ -78,6 +78,7 @@ Complete systems, frameworks, and configuration setups that extend or enhance Cl
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 2.9k ⭐ | AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser |
 | [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem) | 459 ⭐ | AI software team for Claude Code — 138 agents, 295 skills, 73 hooks, self-learning multi-agent swarm |
 | [keli-wen/agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill) | 204 ⭐ | Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination |
+| [aphoristicartist/claude-kiss](https://github.com/aphoristicartist/claude-kiss) | 1 ⭐ | Transparent Claude Code launcher with a focused prompt, six core tools, and opt-in web, skills, delegation, and MCP while preserving the native binary, account, and sessions |
 
 ---
 
