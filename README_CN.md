@@ -78,6 +78,7 @@
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 2.9k ⭐ | 终端 AI 编程 Agent —— 哈希锚定编辑、优化工具 Harness、LSP、Python、浏览器支持 |
 | [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem) | 459 ⭐ | Claude Code 的 AI 软件团队 —— 138 个 Agent、295 个技能、73 个 Hook，自学习多智能体群 |
 | [keli-wen/agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill) | 204 ⭐ | Harness 工程 Agent 技能 —— 记忆、权限、上下文工程、多智能体协调 |
+| [aphoristicartist/claude-kiss](https://github.com/aphoristicartist/claude-kiss) | 1 ⭐ | 透明的 Claude Code 启动器：默认使用精简提示词和六个核心工具，网页访问、技能、子代理委派和 MCP 按需启用，同时保留原生程序、账号和会话 |
 
 ---
 
