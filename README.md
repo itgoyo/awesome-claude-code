@@ -102,6 +102,7 @@ Tools for running, managing, and coordinating multiple Claude Code agents in par
 | [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief) | 444 ⭐ | Build big projects with Claude — breaks work into tasks and runs Claude Code in a loop until done |
 | [Hainrixz/the-architect](https://github.com/Hainrixz/the-architect) | 73 ⭐ | Claude Code meta-agent that designs complete software blueprints |
 | [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge) | 2.2k ⭐ | Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead |
+| [Thatweirdguy1/Models-Cowork](https://github.com/Thatweirdguy1/Models-Cowork) | — | Dependency-free coordination kit for Claude Code, Codex, Copilot, Antigravity, and Ollama with model routing, file ownership, and portable handoffs |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | 31.8k ⭐ | AI-powered job search system built on Claude Code — 14 skill modes, Go dashboard, PDF generation |
 
 ---
