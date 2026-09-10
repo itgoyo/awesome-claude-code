@@ -168,6 +168,7 @@
 | [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) | 2k ⭐ | Agent Harness，将 Claude Code 等工具的历史记录发布为 HuggingFace 数据集 |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 8.2k ⭐ | 将任意代码或知识库转为交互式知识图谱 |
 | [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) | 271 ⭐ | 兼容 Agent Skills 的 LLM Wiki，适用于 Claude Code、Cursor 和 Codex |
+| [suffro/syngraphe](https://github.com/suffro/syngraphe) | 2 ⭐ | 基于 AGENTS.md 的 Git 原生仓库上下文工具，通过结构化 Markdown 为开发者和编码智能体共享项目上下文，并支持 CLAUDE.md |
 
 ---
 
