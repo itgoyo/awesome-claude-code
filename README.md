@@ -170,6 +170,7 @@ Tools for persistent memory, context management, and intelligent context injecti
 | [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) | 2k ⭐ | Agent harness to publish history from Claude Code et al. as Hugging Face datasets |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 8.2k ⭐ | Turn any code or knowledge base into an interactive knowledge graph |
 | [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) | 271 ⭐ | Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex |
+| [hailneed/agentmemora](https://github.com/hailneed/agentmemora) | 0 ⭐ | Local-first memory intelligence for Claude Code that groups sessions and subagent traces by project, inspects durable memory and context-loss signals, and exports Context Capsules |
 
 ---
 
