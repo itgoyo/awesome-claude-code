@@ -146,6 +146,7 @@
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 10.6k ⭐ | 无需登录即可查看 OpenAI Codex 和 Claude Code 用量统计 |
 | [nyatinte/ccexp](https://github.com/nyatinte/ccexp) | 264 ⭐ | 交互式终端界面 —— 发现、预览和管理 Claude Code 配置 |
 | [kaida-palooza/ccpoke](https://github.com/kaida-palooza/ccpoke) | 97 ⭐ | AI 编程 Agent 与手机之间的桥梁 —— 通知、双向聊天、权限管理 |
+| [MarlBurroW/sillage](https://github.com/MarlBurroW/sillage) | 4 ⭐ | 自托管、移动优先的 Web UI，在本机驱动 Claude Code 和 Codex CLI，支持服务端会话、全文搜索、IDE 面板和可安装的 PWA |
 
 ---
 
