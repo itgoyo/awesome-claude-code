@@ -124,6 +124,7 @@ Tools for routing Claude Code requests through different models or creating comp
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | 5.9k ⭐ | Zero-Config Code Flow for Claude Code & Codex |
 | [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | 2.4k ⭐ | Native macOS menu bar app to use Claude Code & ChatGPT subscriptions with AI coding tools |
 | [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) | 1.1k ⭐ | Desktop app to use AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with coding tools |
+| [vizuh/sabi](https://github.com/vizuh/sabi) | 15 ⭐ | Adaptive per-round model, reasoning-effort and provider routing for coding agents — installs Claude Code hooks and keeps the harness loop, deciding the next round from trajectory evidence (tool results, failures, verification) instead of pinning the whole session to one model |
 
 ---
 

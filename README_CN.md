@@ -123,6 +123,7 @@
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | 5.9k ⭐ | Claude Code & Codex 零配置代码流 |
 | [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | 2.4k ⭐ | 原生 macOS 菜单栏应用 —— 在 AI 编程工具中使用 Claude Code & ChatGPT 订阅 |
 | [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) | 1.1k ⭐ | 桌面应用 —— 将 Claude、ChatGPT、Gemini、GitHub Copilot 订阅用于编程工具 |
+| [vizuh/sabi](https://github.com/vizuh/sabi) | 15 ⭐ | 面向编程 Agent 的逐轮自适应路由 —— 按轮次选择模型、推理强度与供应商；安装 Claude Code 钩子并保留宿主自身的循环，依据轨迹证据（工具返回、失败、验证结果）决定下一轮，而不是把整个会话固定在一个模型上 |
 
 ---
 
