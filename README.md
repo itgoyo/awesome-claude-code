@@ -103,6 +103,7 @@ Tools for running, managing, and coordinating multiple Claude Code agents in par
 | [Hainrixz/the-architect](https://github.com/Hainrixz/the-architect) | 73 ⭐ | Claude Code meta-agent that designs complete software blueprints |
 | [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge) | 2.2k ⭐ | Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | 31.8k ⭐ | AI-powered job search system built on Claude Code — 14 skill modes, Go dashboard, PDF generation |
+| [vizuh/sabi](https://github.com/vizuh/sabi) | 15 ⭐ | Cross-harness controller for Claude Code, Codex, OpenCode and Orca — a fail-open `UserPromptSubmit` hook reports bounded prompt/session metadata to a loopback controller, which can continue, delegate or spawn a target only with a typed receipt. It does not change the model inside a running Claude Code turn |
 
 ---
 
