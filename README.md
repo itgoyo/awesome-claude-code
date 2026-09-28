@@ -298,6 +298,7 @@ Tools for monitoring Claude Code token usage, costs, and session analytics.
 | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | — | macOS menu bar app that monitors AI coding assistant usage quotas |
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 1.8k ⭐ | CLI tool for tracking token usage from OpenCode, Claude Code, OpenClaw, and more |
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 10.6k ⭐ | Show usage stats for OpenAI Codex and Claude Code without having to login |
+| [jovan158/vantage.ai](https://github.com/Jovan158/vantage.ai) | - ⭐ | Cost and usage monitor, guardrail, and session log for AI coding agents |
 
 ---
 
@@ -326,6 +327,7 @@ Tools for managing Claude Code security, permissions, and running in sandboxed e
 | [VishalJ99/claude-docker](https://github.com/VishalJ99/claude-docker) | 164 ⭐ | Docker container for running Claude Code with full permissions and Twilio notifications |
 | [kevinMEH/code-container](https://github.com/kevinMEH/code-container) | 213 ⭐ | Safely run OpenCode, Codex, Claude Code with full permissions |
 | [dwillitzer/claude-settings](https://github.com/dwillitzer/claude-settings) | 76 ⭐ | Claude Code settings and permissions configuration reference |
+| [jovan158/vantage.ai](https://github.com/Jovan158/vantage.ai) | - ⭐ | Security and permission guardrails for AI coding agents |
 
 ---
 
