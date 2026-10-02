@@ -146,6 +146,7 @@
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 10.6k ⭐ | 无需登录即可查看 OpenAI Codex 和 Claude Code 用量统计 |
 | [nyatinte/ccexp](https://github.com/nyatinte/ccexp) | 264 ⭐ | 交互式终端界面 —— 发现、预览和管理 Claude Code 配置 |
 | [kaida-palooza/ccpoke](https://github.com/kaida-palooza/ccpoke) | 97 ⭐ | AI 编程 Agent 与手机之间的桥梁 —— 通知、双向聊天、权限管理 |
+| [denizataes/claude-account-switcher](https://github.com/denizataes/claude-account-switcher) | 0 ⭐ | 非官方 Windows 托盘工具：切换自己的 Claude Code 默认账号、收藏常用账号，并查看缓存的五小时/每周用量与提醒 |
 
 ---
 

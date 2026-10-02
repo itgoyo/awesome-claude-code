@@ -148,6 +148,7 @@ Graphical interfaces, web UIs, and desktop applications for Claude Code.
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 10.6k ⭐ | Show usage stats for OpenAI Codex and Claude Code without having to login |
 | [nyatinte/ccexp](https://github.com/nyatinte/ccexp) | 264 ⭐ | Interactive terminal interface for discovering, previewing, and managing Claude Code configuration |
 | [kaida-palooza/ccpoke](https://github.com/kaida-palooza/ccpoke) | 97 ⭐ | Bridge between AI coding agents and your phone — notifications, 2-way chat, permissions |
+| [denizataes/claude-account-switcher](https://github.com/denizataes/claude-account-switcher) | 0 ⭐ | Unofficial Windows tray app for switching your own default Claude Code account, with favorites and cached five-hour/weekly usage limits and warnings |
 
 ---
 
