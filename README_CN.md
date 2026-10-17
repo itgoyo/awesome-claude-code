@@ -132,6 +132,7 @@
 
 | 仓库 | 星标 | 简介 |
 |---|---|---|
+| [dibyapp/runquay](https://github.com/dibyapp/runquay) | 0 ⭐ | 在本机浏览器中管理 Claude Code 等编程工具的任务队列，支持检查点交接、运行进度查看和逐次运行审批 |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 9.7k ⭐ | 在手机和网页上使用 Claude Code（CloudCLI） —— 免费开源 WebUI，支持远程会话管理 |
 | [slopus/happy](https://github.com/slopus/happy) | 17.8k ⭐ | Codex 和 Claude Code 的移动端 + 网页客户端 —— 实时语音、加密、全功能 |
 | [winfunc/opcode](https://github.com/winfunc/opcode) | 21.4k ⭐ | 强大的 Claude Code GUI 应用和工具包 —— 创建自定义 Agent，管理交互式会话 |
