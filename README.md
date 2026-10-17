@@ -133,6 +133,7 @@ Graphical interfaces, web UIs, and desktop applications for Claude Code.
 
 | Repository | Stars | Description |
 |---|---|---|
+| [dibyapp/runquay](https://github.com/dibyapp/runquay) | 0 ⭐ | Local browser task queue for Claude Code and other coding CLIs, with checkpoint handoffs, readable progress and per-run approval |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 9.7k ⭐ | Use Claude Code on mobile and web with CloudCLI — free open source WebUI/GUI for managing sessions remotely |
 | [slopus/happy](https://github.com/slopus/happy) | 17.8k ⭐ | Mobile and web client for Codex and Claude Code — realtime voice, encryption, fully featured |
 | [winfunc/opcode](https://github.com/winfunc/opcode) | 21.4k ⭐ | Powerful GUI app and toolkit for Claude Code — create custom agents, manage interactive sessions |
