@@ -123,6 +123,7 @@
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | 5.9k ⭐ | Claude Code & Codex 零配置代码流 |
 | [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | 2.4k ⭐ | 原生 macOS 菜单栏应用 —— 在 AI 编程工具中使用 Claude Code & ChatGPT 订阅 |
 | [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) | 1.1k ⭐ | 桌面应用 —— 将 Claude、ChatGPT、Gemini、GitHub Copilot 订阅用于编程工具 |
+| [PBJ-2/clauderipple](https://github.com/PBJ-2/clauderipple) | 64 ⭐ | 本地路由器 —— 让 Claude Code 和 Claude 桌面版的 Code 标签页可在应用模型选择器及子智能体中调用 GPT（通过 ChatGPT 订阅）、DeepSeek、Gemini、GLM、Kimi 等 OpenAI 兼容模型，Claude 请求仍走用户自己的 Claude 订阅 |
 
 ---
 

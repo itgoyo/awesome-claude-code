@@ -124,6 +124,7 @@ Tools for routing Claude Code requests through different models or creating comp
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | 5.9k ⭐ | Zero-Config Code Flow for Claude Code & Codex |
 | [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | 2.4k ⭐ | Native macOS menu bar app to use Claude Code & ChatGPT subscriptions with AI coding tools |
 | [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) | 1.1k ⭐ | Desktop app to use AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with coding tools |
+| [PBJ-2/clauderipple](https://github.com/PBJ-2/clauderipple) | 64 ⭐ | Local router that lets Claude Code and the Claude desktop app's Code tab use GPT (via a ChatGPT subscription), DeepSeek, Gemini, GLM, Kimi and other OpenAI-compatible models from the app's model picker and for subagents, while Claude requests stay on the user's own Claude subscription |
 
 ---
 
