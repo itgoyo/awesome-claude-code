@@ -179,6 +179,7 @@ Model Context Protocol (MCP) servers and integrations that extend Claude Code's 
 
 | Repository | Stars | Description |
 |---|---|---|
+| [getremcp/docsy-plugin](https://github.com/getremcp/docsy-plugin) | — | Hosted OAuth MCP for source-linked, version-specific developer docs; Claude Code community plugin |
 | [oraios/serena](https://github.com/oraios/serena) | 22.8k ⭐ | Powerful MCP toolkit — semantic retrieval and editing capabilities (the IDE for your agent) |
 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 18k ⭐ | MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows |
 | [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | 11.4k ⭐ | PAL MCP server — connect Claude Code to Gemini, OpenAI, OpenRouter, Azure, Grok, Ollama |
