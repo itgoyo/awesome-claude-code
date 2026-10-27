@@ -177,6 +177,7 @@
 
 | 仓库 | 星标 | 简介 |
 |---|---|---|
+| [getremcp/remcp](https://github.com/getremcp/remcp) | — | 通过 OAuth 连接已明确配对的设备，使用终端、文件、浏览器及桌面工具；操作可能修改设备状态 |
 | [oraios/serena](https://github.com/oraios/serena) | 22.8k ⭐ | 强大的 MCP 工具包 —— 语义检索和编辑能力（你的 Agent 的 IDE） |
 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 18k ⭐ | 让 Claude Desktop / Claude Code / Windsurf / Cursor 构建 n8n 工作流的 MCP |
 | [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | 11.4k ⭐ | PAL MCP 服务器 —— 将 Claude Code 连接到 Gemini、OpenAI、OpenRouter、Azure、Grok、Ollama |
