@@ -343,7 +343,7 @@ Integrations with CI/CD pipelines, GitHub Actions, and DevOps workflows.
 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 14k ⭐ | 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma) — full-featured with Claude Code integration |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 10.9k ⭐ | Clone any website with one command using AI coding agents |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 1.1k ⭐ | Codebase intelligence for AI-assisted teams — auto-generated docs, git analytics, dead code |
-| [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) | 528 ⭐ | Cross-platform smart notifications plugin for Claude Code — 6 types, click-to-focus, 1-line install |
+| [777genius/agent-notifications](https://github.com/777genius/agent-notifications) | 819 ⭐ | Desktop and webhook notifications for Claude Code and other coding agents on macOS, Linux and Windows; Claude/Codex also support sounds and click-to-focus |
 | [komunite/tezgah](https://github.com/komunite/tezgah) | 84 ⭐ | Production-ready SaaS with Claude Code — skill set for solopreneurs |
 | [whawkinsiv/solo-founder-superpowers](https://github.com/whawkinsiv/solo-founder-superpowers) | 158 ⭐ | Skillset for solo, bootstrapped, non-technical founders building SaaS with Claude Code |
 

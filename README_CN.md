@@ -331,7 +331,7 @@ CLAUDE.md 模板、配置指南和 Claude Code 项目最佳实践。
 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 14k ⭐ | 100% 免费的现代 JS SaaS 模板（React、NodeJS、Prisma）—— 完整功能，含 Claude Code 集成 |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 10.9k ⭐ | 用 AI 编程 Agent 一条命令克隆任意网站 |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 1.1k ⭐ | AI 辅助团队的代码库智能 —— 自动生成文档、git 分析、死代码检测 |
-| [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) | 528 ⭐ | Claude Code 跨平台智能通知插件 —— 6 种类型、点击聚焦、一行安装 |
+| [777genius/agent-notifications](https://github.com/777genius/agent-notifications) | 819 ⭐ | 为 Claude Code 等编程智能体提供桌面和 Webhook 通知，支持 macOS、Linux 和 Windows；Claude/Codex 还支持提示音和点击聚焦 |
 
 ---
 
